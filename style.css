@@ -1,1 +1,103 @@
 
+Body{
+  background: #777;
+}
+
+
+#header{
+font-family: Arial;
+position: absolute;
+top: 1%;
+width:76%;
+left:12%;
+text-align: center;
+padding: 2%;
+background-color: #ebebeb;
+}
+
+#nav{ position: absolute; 
+top: 15%;
+left:12%;
+width: 76%;
+padding: 2%;
+text-align:center;
+background-color: #ebebeb;
+font-family: Arial;
+}
+
+.section{ position: absolute;
+padding:1.5%;
+text-align: center;
+top:30%;
+left:12%;
+width: 46%;
+height:37%;
+
+background-color: #ebebeb;
+font-family: Arial;
+
+}
+.article{position: absolute;
+top: 38%;
+left: 13%;
+width: 44%;
+height: 27%;
+padding: 1.6%;
+text-align: center;
+
+background-color:#777;
+font-family: Arial;
+}
+
+#aside {
+  position: absolute;
+  text-align: center;
+  left: 62%;
+  top: 30%;
+  width: 30%;
+  height:42.7%;
+  overflow: auto;
+  
+  background-color: #ebebeb;
+  font-family: Arial;
+}
+
+.footer{ position: absolute;
+top: 78%;
+width: 77%;
+left: 12%;
+clear: both;
+padding: 1.5%;
+background-color: #ebebeb;
+text-align: center;
+font-family: Arial;
+
+}
+#h1{ position:absolute;
+text-align:center;
+padding: 1.5%;
+top: 48%;
+left: 14%;
+width: 42%;
+height:3%;
+background-color: #ebebeb;
+font-family: Arial;
+overflow: auto;
+}
+
+#para {overflow: auto;
+position:absolute;
+text-align:center;
+padding: 1.5%;
+top: 60%;
+left: 14%;
+width: 42%;
+height: 3%;
+background-color: #ebebeb;
+font-family: Arial;
+
+}
+
+
+
+
